@@ -1,9 +1,9 @@
-Name: RoshiniGella
-Company: CODTECH IT SOLUTIONS
-ID: CT6WDS2319
-Domain: FRONTEND WEB DEVELOPMENT
-Duration: November to December 2024
-Mentor: Neela Santhosh Kumar
+              Name: RoshiniGella
+              Company: CODTECH IT SOLUTIONS
+              ID: CT6WDS2319
+              Domain: FRONTEND WEB DEVELOPMENT
+              Duration: November to December 2024
+              Mentor: Neela Santhosh Kumar
 Overview of the project
 project:exploratory Frontend Web Development on Interactive Quiz Application
 ![1sc](https://github.com/user-attachments/assets/6b1e6d31-ef8c-447f-b081-5cffc9fb5b90)
@@ -12,8 +12,8 @@ project:exploratory Frontend Web Development on Interactive Quiz Application
 ![4sc](https://github.com/user-attachments/assets/843c7f58-f915-4636-8085-9a3a8d51b53d)
 objective:
 To create an engaging and interactive quiz application that enables users to test their knowledge on various topics, offering a seamless and visually appealing experience. The application should be user-friendly, responsive, and include features for tracking performance and providing feedback.
-Key Activities:  
-1. Planning and Design  
+  
+    Key Activities:1. Planning and Design  
    - Define the purpose and scope of the quiz application.  
    - Create wireframes or prototypes to design the user interface.  
    - Plan user flow (e.g., quiz start, question navigation, scoring, feedback).  
@@ -25,9 +25,9 @@ Key Activities:
    - Dynamic Question Loading: Fetch questions from an array or external JSON file.  
    - Answer Validation: Verify answers and provide immediate feedback.  
    - Progress Tracker: Display current progress (e.g., question X out of Y).  
-   - Results Screen: Show scores and detailed feedback at the end. 
-Key Technologies Used
-1. HTML
+   - Results Screen: Show scores and detailed feedback at the end.
+     
+      Key Technologies used:1. HTML
    - Create the structural elements of the application, including quiz containers, buttons, and progress bars.  
 2. CSS
    - Add visual styling, such as fonts, colors, animations, and responsive layouts.  
