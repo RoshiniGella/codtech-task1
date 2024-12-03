@@ -1,11 +1,10 @@
-              Name: RoshiniGella
-              Company: CODTECH IT SOLUTIONS
-              ID: CT6WDS2319
-              Domain: FRONTEND WEB DEVELOPMENT
-              Duration: November to December 2024
-              Mentor: Neela Santhosh Kumar
-Overview of the project
-project:exploratory Frontend Web Development on Interactive Quiz Application
+         Name: RoshiniGella
+         Company: CODTECH IT SOLUTIONS
+         ID: CT6WDS2319 
+         Domain: FRONTEND WEB DEVELOPMENT
+         Duration: November to December 2024
+         Mentor: Neela Santhosh Kumar
+Overview of the project:Exploratory Frontend Web Development on Interactive Quiz Application
 ![1sc](https://github.com/user-attachments/assets/6b1e6d31-ef8c-447f-b081-5cffc9fb5b90)
 ![2sc](https://github.com/user-attachments/assets/42321bdd-c87d-4ad1-88b9-d6b940a3ff2c)
 ![3sc](https://github.com/user-attachments/assets/b6acb44f-f0cc-4428-b8ef-9404ccd30a13)
@@ -27,12 +26,13 @@ To create an engaging and interactive quiz application that enables users to tes
    - Progress Tracker: Display current progress (e.g., question X out of Y).  
    - Results Screen: Show scores and detailed feedback at the end.
      
-      Key Technologies used:1. HTML
+      Key Technologies used:
+  ->HTML
    - Create the structural elements of the application, including quiz containers, buttons, and progress bars.  
-2. CSS
+  -> CSS
    - Add visual styling, such as fonts, colors, animations, and responsive layouts.  
-  - Use CSS Grid or Flexbox for adaptive and structured design.  
-3. JavaScript
+   - Use CSS Grid or Flexbox for adaptive and structured design.  
+-> JavaScript
    - Manage interactivity, logic, and events (e.g., question navigation, score tracking).  
    - Use JavaScript DOM manipulation for updating the interface dynamically.
 
